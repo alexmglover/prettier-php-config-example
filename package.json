@@ -1,0 +1,10 @@
+{
+  "name": "prettier-php",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@prettier/plugin-php": "^0.15.0",
+    "prettier": "^2.1.2"
+  }
+}

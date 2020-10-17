@@ -1,0 +1,17 @@
+{
+  "useTabs": true,
+  "overrides": [
+    {
+      "files": [
+        "*.p"
+      ],
+      "options": {
+        "parser": "php",
+        "phpVersion": "7.4",
+        "braceStyle": "1tbs",
+        "embeddedLanguageFormatting": "off",
+        "singleQuote": true
+      }
+    }
+  ]
+}
